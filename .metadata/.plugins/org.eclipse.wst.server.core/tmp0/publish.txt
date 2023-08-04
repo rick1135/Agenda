@@ -1,3 +1,0 @@
-#Tomcat publish data
-#Tue Aug 01 19:53:47 BRT 2023
-org.eclipse.jst.jee.server\:Hello_JSP=C\:\\apache-tomcat-10.1.11\\wtpwebapps\\Hello_JSP
